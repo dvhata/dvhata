@@ -4,7 +4,7 @@
 - IELTS 6.0
 - FE Junior
 - #React #Typescipt
-Welcome to my channel!
+
 
 <!---
 dvhata/dvhata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
