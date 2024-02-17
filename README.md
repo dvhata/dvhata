@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @dvhata
-- 👀 I’m interested in FE
-- 🌱 I’m currently learning at UET, VNU
+- 👀 I’m interested in FrontEnd
+- 🌱 I have graduated at University of Engineering and Technology, Vietnam National University
+- IELTS 6.0
+- FE Junior
+- #React #Typescipt
 Welcome to my channel!
 
 <!---
